@@ -16,6 +16,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.12 organizes raw, processed, and output artifact boundaries.
 - LU 4.13 adds the first runnable Python transaction analysis script.
 - LU 4.14 introduces numeric and string data types for transaction fields.
+- LU 4.15 applies lists, tuples, and dictionaries for transaction modeling.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -87,3 +88,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added type demonstration module for numeric and string transaction fields.
 - Added notebook examples for type conversion and validation.
 - Added implementation note for LU 4.14 to prepare for robust feature engineering.
+
+## LU 4.15 Outcome
+
+- Added data structure utility for transaction records using lists, tuples, and dictionaries.
+- Added notebook examples that model records and account-level summaries.
+- Added implementation note for LU 4.15 to support reusable fraud logic building blocks.
