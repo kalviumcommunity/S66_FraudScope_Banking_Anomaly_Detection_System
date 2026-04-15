@@ -187,3 +187,15 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added DataFrame helper from transaction dictionaries and sample data.
 - Added notebook demonstrating DataFrame creation and column access.
 - Added implementation note for LU 4.28 to enable tabular fraud data handling.
+
+## LU 4.29 Outcome
+
+- Added CSV loading helper to read transaction files into DataFrames.
+- Added notebook demonstrating read_csv and basic file handling.
+- Added implementation note for LU 4.29 to enable real data ingestion.
+
+## LU 4.30 Outcome
+
+- Added DataFrame inspection helper using head(), info(), and describe().
+- Added notebook showing structural analysis of loaded transaction data.
+- Added implementation note for LU 4.30 to support data quality verification.
