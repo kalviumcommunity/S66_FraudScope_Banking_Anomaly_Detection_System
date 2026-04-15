@@ -28,6 +28,10 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.24 performs basic mathematical operations on NumPy arrays.
 - LU 4.25 replaces Python loops with vectorized NumPy operations for efficiency.
 - LU 4.26 demonstrates NumPy broadcasting with simple array examples.
+- LU 4.27 creates Pandas Series from transaction amount lists and arrays.
+- LU 4.28 creates Pandas DataFrames from dictionaries and transaction files.
+- LU 4.29 loads CSV transaction data into Pandas DataFrames.
+- LU 4.30 inspects DataFrames using head(), info(), and describe().
  - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -171,3 +175,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added broadcasting helper to perform cross-array operations without explicit loops.
 - Added notebook demonstrating scalar-array and array-array broadcasting patterns.
 - Added implementation note for LU 4.26 to enable efficient multi-array transformations.
+
+## LU 4.27 Outcome
+
+- Added Pandas helper to create Series from lists and arrays.
+- Added notebook demonstrating Series creation and basic operations.
+- Added implementation note for LU 4.27 to prepare for DataFrame-based workflows.
