@@ -11,6 +11,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.7 introduces Jupyter launch flow and home interface navigation.
 - LU 4.8 differentiates code cells and markdown cells for clean notebook storytelling.
 - LU 4.9 covers notebook kernel lifecycle controls for safe execution.
+- LU 4.10 standardizes markdown headings, lists, and code blocks in notebooks.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -52,3 +53,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added kernel lifecycle helper for run, restart, and interrupt guidance.
 - Added notebook with practical examples for managing long-running executions.
 - Added implementation note for LU 4.9 linked to stable analysis operations.
+
+## LU 4.10 Outcome
+
+- Added markdown template helper for notebook documentation sections.
+- Added notebook demonstrating headings, lists, and fenced code blocks.
+- Added implementation note for LU 4.10 supporting consistent project communication.
