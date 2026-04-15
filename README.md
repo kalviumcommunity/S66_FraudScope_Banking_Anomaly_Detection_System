@@ -21,6 +21,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.17 applies for/while loops for iterative transaction processing.
 - LU 4.18 defines reusable Python functions for fraud analysis tasks.
 - LU 4.19 formalizes function inputs and return values for scoring workflows.
+- LU 4.20 applies PEP8 naming and meaningful comments for readability.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -122,3 +123,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added typed function interfaces with input validation and structured returns.
 - Added notebook examples passing transaction payloads and reading returned metrics.
 - Added implementation note for LU 4.19 to strengthen reusable scoring contracts.
+
+## LU 4.20 Outcome
+
+- Added style-focused helper showcasing PEP8 variable naming patterns.
+- Added notebook examples for readable naming and concise comment usage.
+- Added implementation note for LU 4.20 to improve maintainability.
