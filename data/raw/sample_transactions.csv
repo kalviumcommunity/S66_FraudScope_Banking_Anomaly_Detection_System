@@ -1,0 +1,7 @@
+transaction_id,account_id,amount,channel
+T1001,A01,1200,ATM
+T1002,A02,7800,Online
+T1003,A01,450,POS
+T1004,A03,15200,Online
+T1005,A02,2300,ATM
+T1006,A04,980,POS
