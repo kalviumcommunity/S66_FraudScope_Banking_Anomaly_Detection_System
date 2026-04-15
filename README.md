@@ -13,6 +13,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.9 covers notebook kernel lifecycle controls for safe execution.
 - LU 4.10 standardizes markdown headings, lists, and code blocks in notebooks.
 - LU 4.11 formalizes project folder structure conventions for DS delivery.
+- LU 4.12 organizes raw, processed, and output artifact boundaries.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -66,3 +67,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added folder structure blueprint and automated structure checker.
 - Added notebook walkthrough for expected DS project directories.
 - Added implementation note for LU 4.11 to keep repository scalable.
+
+## LU 4.12 Outcome
+
+- Added data stage policy helper to enforce raw/processed/output separation.
+- Added notebook showing correct artifact placement for pipeline steps.
+- Added implementation note for LU 4.12 focused on data lineage clarity.
