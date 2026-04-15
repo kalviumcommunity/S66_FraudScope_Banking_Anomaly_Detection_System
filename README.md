@@ -10,6 +10,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.6 adds automated verification for Python, Conda, and Jupyter tooling.
 - LU 4.7 introduces Jupyter launch flow and home interface navigation.
 - LU 4.8 differentiates code cells and markdown cells for clean notebook storytelling.
+- LU 4.9 covers notebook kernel lifecycle controls for safe execution.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -45,3 +46,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added notebook examples showing code cells versus markdown cells.
 - Added helper utility that prints recommended cell usage in DS notebooks.
 - Added implementation note for LU 4.8 aligned to explainable fraud analysis.
+
+## LU 4.9 Outcome
+
+- Added kernel lifecycle helper for run, restart, and interrupt guidance.
+- Added notebook with practical examples for managing long-running executions.
+- Added implementation note for LU 4.9 linked to stable analysis operations.
