@@ -17,6 +17,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.13 adds the first runnable Python transaction analysis script.
 - LU 4.14 introduces numeric and string data types for transaction fields.
 - LU 4.15 applies lists, tuples, and dictionaries for transaction modeling.
+- LU 4.16 introduces conditional logic for fraud screening decisions.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -94,3 +95,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added data structure utility for transaction records using lists, tuples, and dictionaries.
 - Added notebook examples that model records and account-level summaries.
 - Added implementation note for LU 4.15 to support reusable fraud logic building blocks.
+
+## LU 4.16 Outcome
+
+- Added conditional screening helper for low/medium/high risk labeling.
+- Added notebook examples applying if/elif/else rules on transaction amounts.
+- Added implementation note for LU 4.16 to support explainable rule-based flags.
