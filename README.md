@@ -19,6 +19,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.15 applies lists, tuples, and dictionaries for transaction modeling.
 - LU 4.16 introduces conditional logic for fraud screening decisions.
 - LU 4.17 applies for/while loops for iterative transaction processing.
+- LU 4.18 defines reusable Python functions for fraud analysis tasks.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -108,3 +109,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added iterative processing helper using for and while loops.
 - Added notebook examples for batch traversal and threshold counting.
 - Added implementation note for LU 4.17 to support repeated anomaly checks.
+
+## LU 4.18 Outcome
+
+- Added reusable function set for transaction scoring and reason tagging.
+- Added notebook examples showing function definition and invocation.
+- Added implementation note for LU 4.18 to prepare modular fraud pipeline design.
