@@ -25,6 +25,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.21 structures Python modules for readability and reuse.
 - LU 4.22 introduces NumPy arrays created from Python lists.
 - LU 4.23 explores array shape, dimensions, and index positions.
+- LU 4.24 performs basic mathematical operations on NumPy arrays.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -150,3 +151,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added NumPy helper to inspect array shape, dimensions, and key index access.
 - Added notebook examples for 1D and 2D array indexing patterns.
 - Added implementation note for LU 4.23 to prepare safe numerical slicing workflows.
+
+## LU 4.24 Outcome
+
+- Added NumPy math helper covering add, subtract, multiply, and divide operations.
+- Added notebook showing element-wise math on transaction amount arrays.
+- Added implementation note for LU 4.24 to support numerical feature transformations.
