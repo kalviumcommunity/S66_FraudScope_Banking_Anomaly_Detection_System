@@ -12,6 +12,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.8 differentiates code cells and markdown cells for clean notebook storytelling.
 - LU 4.9 covers notebook kernel lifecycle controls for safe execution.
 - LU 4.10 standardizes markdown headings, lists, and code blocks in notebooks.
+- LU 4.11 formalizes project folder structure conventions for DS delivery.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -59,3 +60,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added markdown template helper for notebook documentation sections.
 - Added notebook demonstrating headings, lists, and fenced code blocks.
 - Added implementation note for LU 4.10 supporting consistent project communication.
+
+## LU 4.11 Outcome
+
+- Added folder structure blueprint and automated structure checker.
+- Added notebook walkthrough for expected DS project directories.
+- Added implementation note for LU 4.11 to keep repository scalable.
