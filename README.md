@@ -24,6 +24,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.20 applies PEP8 naming and meaningful comments for readability.
 - LU 4.21 structures Python modules for readability and reuse.
 - LU 4.22 introduces NumPy arrays created from Python lists.
+- LU 4.23 explores array shape, dimensions, and index positions.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -143,3 +144,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added NumPy conversion helper to create arrays from transaction amount lists.
 - Added notebook demonstrating list-to-array conversion and dtype inspection.
 - Added implementation note for LU 4.22 to prepare efficient numeric workflows.
+
+## LU 4.23 Outcome
+
+- Added NumPy helper to inspect array shape, dimensions, and key index access.
+- Added notebook examples for 1D and 2D array indexing patterns.
+- Added implementation note for LU 4.23 to prepare safe numerical slicing workflows.
