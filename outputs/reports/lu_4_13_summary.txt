@@ -1,0 +1,4 @@
+Transaction count: 6
+Total amount: 27930.00
+Average amount: 4655.00
+High-value transactions (>5000): 2
