@@ -181,3 +181,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added Pandas helper to create Series from lists and arrays.
 - Added notebook demonstrating Series creation and basic operations.
 - Added implementation note for LU 4.27 to prepare for DataFrame-based workflows.
+
+## LU 4.28 Outcome
+
+- Added DataFrame helper from transaction dictionaries and sample data.
+- Added notebook demonstrating DataFrame creation and column access.
+- Added implementation note for LU 4.28 to enable tabular fraud data handling.
