@@ -18,6 +18,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.14 introduces numeric and string data types for transaction fields.
 - LU 4.15 applies lists, tuples, and dictionaries for transaction modeling.
 - LU 4.16 introduces conditional logic for fraud screening decisions.
+- LU 4.17 applies for/while loops for iterative transaction processing.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -101,3 +102,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added conditional screening helper for low/medium/high risk labeling.
 - Added notebook examples applying if/elif/else rules on transaction amounts.
 - Added implementation note for LU 4.16 to support explainable rule-based flags.
+
+## LU 4.17 Outcome
+
+- Added iterative processing helper using for and while loops.
+- Added notebook examples for batch traversal and threshold counting.
+- Added implementation note for LU 4.17 to support repeated anomaly checks.
