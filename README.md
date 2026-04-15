@@ -27,6 +27,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.23 explores array shape, dimensions, and index positions.
 - LU 4.24 performs basic mathematical operations on NumPy arrays.
 - LU 4.25 replaces Python loops with vectorized NumPy operations for efficiency.
+- LU 4.26 demonstrates NumPy broadcasting with simple array examples.
  - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -164,3 +165,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added vectorization helper to replace loop-based scoring with array operations.
 - Added notebook demonstrating fast element-wise threshold checking.
 - Added implementation note for LU 4.25 to support efficient anomaly detection scaling.
+
+## LU 4.26 Outcome
+
+- Added broadcasting helper to perform cross-array operations without explicit loops.
+- Added notebook demonstrating scalar-array and array-array broadcasting patterns.
+- Added implementation note for LU 4.26 to enable efficient multi-array transformations.
