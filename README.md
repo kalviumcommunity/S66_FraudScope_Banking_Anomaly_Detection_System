@@ -15,6 +15,7 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - LU 4.11 formalizes project folder structure conventions for DS delivery.
 - LU 4.12 organizes raw, processed, and output artifact boundaries.
 - LU 4.13 adds the first runnable Python transaction analysis script.
+- LU 4.14 introduces numeric and string data types for transaction fields.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -80,3 +81,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Added sample raw transaction CSV for script-based analysis practice.
 - Added first Python analysis script to compute basic transaction stats.
 - Added implementation note for LU 4.13 linked to anomaly detection preparation.
+
+## LU 4.14 Outcome
+
+- Added type demonstration module for numeric and string transaction fields.
+- Added notebook examples for type conversion and validation.
+- Added implementation note for LU 4.14 to prepare for robust feature engineering.
