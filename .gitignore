@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+.env
+.venv/
+venv/
+
+# Local Learning Unit tracking notes
+video_script.md
+issues.md
+DUMMY-README.md
+git_log.md
