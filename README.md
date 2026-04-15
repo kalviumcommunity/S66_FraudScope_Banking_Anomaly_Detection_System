@@ -7,6 +7,7 @@ FraudScope is a data science project focused on finding suspicious banking trans
 This repository is executed through Learning Units (LU). Each LU adds a practical piece of the final product.
 
 - LU 4.5 establishes local environment readiness and repository navigation.
+- LU 4.6 adds automated verification for Python, Conda, and Jupyter tooling.
 - Later units build data pipelines, cleaning, EDA, anomaly logic, and insights reporting.
 
 ## Project Structure
@@ -24,3 +25,9 @@ This repository is executed through Learning Units (LU). Each LU adds a practica
 - Project folders initialized for DS workflow.
 - Repository interpretation guide added.
 - Base Python package scaffold created for upcoming units.
+
+## LU 4.6 Outcome
+
+- Added environment verification module for Python, Conda, and Jupyter commands.
+- Added a Jupyter notebook demonstrating setup checks and Python syntax basics.
+- Added implementation note for LU 4.6 with product continuity focus.
